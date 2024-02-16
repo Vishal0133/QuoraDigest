@@ -1,0 +1,23 @@
+div{
+    background-color: bisque;
+    margin-top: 2rem;
+    width: 30%;
+}
+
+h1{
+    color:maroon ;
+}
+
+h3{
+background-color:rgb(214, 140, 29);
+font-style: italic;
+}
+
+a{
+   
+    color:blue;   
+    font-size: 1rem;
+    font-weight: bold;
+    
+
+}
